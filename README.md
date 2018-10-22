@@ -1,4 +1,5 @@
-#如何从零开始搭建一个web项目        
+#JDK7+MAVEN3.3       
+如何从零开始搭建一个web项目        
 jgtx-javaweb-chapter2        
 架构探险：        
 model层——提供实体类映射数据库记录、       
