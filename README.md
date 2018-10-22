@@ -1,4 +1,5 @@
-# jgtx-javaweb-chapter2        
+#如何从零开始搭建一个web项目        
+jgtx-javaweb-chapter2        
 架构探险：        
 model层——提供实体类映射数据库记录、       
 util层——dbcp线程池连接MySQL数据库、        
